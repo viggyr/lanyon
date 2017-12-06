@@ -1,12 +1,6 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
-
 # Setup
 title:               Namaskara
-tagline:             ''
+tagline:             'Here are my deep learning works'
 description:         'A Computer science engineering student interested in deep learning, android app development and node js.'
 url:                 http://viggyr.github.io
 baseurl:             ''
