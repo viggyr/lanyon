@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Sketch to Colorised image generation using Pix2Pix GAN in PyTorch
+title: Outline sketch colorization using Pix2Pix GAN implemented in PyTorch
 ---
 
