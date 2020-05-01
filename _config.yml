@@ -1,7 +1,7 @@
 # Setup
-title:               Vignesh's Blog
-tagline:             'Eat Code Play repeat'
-description:         'A Computer science student,deep learning enthusiastic, developed android apps, knows node js and loves python.'
+title:                Vignesh's blog
+tagline:             'Why should living things have all the fun? Let's lionize the machines!'
+description:         'A staunch believer of Creative AI (Arts and AI)'
 url:                 http://viggyr.github.io
 baseurl:             ''
 paginate:            5
