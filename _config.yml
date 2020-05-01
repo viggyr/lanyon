@@ -1,8 +1,8 @@
 # Setup
-title:               "AiFi - AI Fiction"
+title:               "AiFi (AI Fiction)"
 tagline:             "In the Cloud"
 description:         "Writes when bored coding. Codes when bored writing. A staunch believer of Creative AI (Arts and AI). Let the machines' creations get lionized now!"
-url:                 http://viggyr.github.io
+url:                 http://aifi.io
 baseurl:             ''
 paginate:            5
 
