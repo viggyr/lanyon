@@ -1,7 +1,9 @@
 # Setup
-title:               "TaT"
-tagline:             "Thoughts and Tech"
-description:         "Writes when bored coding. Codes when bored writing. A staunch believer of Creative AI (Arts and AI). Let get the machines' creations lionized!"
+title:               "Vignesh R's Blog"
+tagline:             ""
+description:         "I am passionate about full stack deep learning, specifically in the comptuer vision/video space. 
+                      Full stack deep learning is building end to end components involved in a production DL system - training, 
+                      tuning, testing, serving (REST), hosting and troubleshooting a DL based system/application."
 url:                 http://viggyr.github.io
 baseurl:             ''
 paginate:            5
