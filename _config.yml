@@ -1,7 +1,7 @@
 # Setup
 title:               "Vignesh R's Blog"
 tagline:             ""
-description:         "I am passionate about full stack deep learning, specifically in the comptuer vision/video space. 
+description:         "I am passionate about full stack deep learning, specifically in the computer vision domain. 
                       Full stack deep learning is building end to end components involved in a production DL system - training, 
                       tuning, testing, serving (REST), hosting and troubleshooting a DL based system/application."
 url:                 http://viggyr.github.io
